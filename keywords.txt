@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For GyverPortalAddon
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GyverPortalAddon	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GP_2	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GP_2_LIGHT	LITERAL1
+GP_2_DARK	LITERAL1
+
+OPEN_WEB_PAGE	LITERAL1
+
+SCROLL_BOX	LITERAL1
+BUTTON_SELECT	LITERAL1
+
+UPLOAD_BUTTON	LITERAL1
+
+HREF_BEGIN	LITERAL1
+HREF_END	LITERAL1
+HREF	LITERAL1
+TEXT_HREF	LITERAL1
